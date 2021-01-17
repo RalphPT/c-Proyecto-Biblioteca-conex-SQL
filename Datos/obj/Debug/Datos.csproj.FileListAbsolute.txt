@@ -1,0 +1,30 @@
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA\Datos\bin\Debug\Datos.dll
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA\Datos\bin\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA\Datos\obj\Debug\Datos.dll
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA\Datos\obj\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC02\Desktop\BIBLIOTECA\Datos\bin\Debug\Datos.dll
+C:\Users\PC02\Desktop\BIBLIOTECA\Datos\bin\Debug\Datos.pdb
+C:\Users\PC02\Desktop\BIBLIOTECA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC02\Desktop\BIBLIOTECA\Datos\obj\Debug\Datos.dll
+C:\Users\PC02\Desktop\BIBLIOTECA\Datos\obj\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA - copia\BIBLIOTECA\Datos\bin\Debug\Datos.dll
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA - copia\BIBLIOTECA\Datos\bin\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA - copia\BIBLIOTECA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA - copia\BIBLIOTECA\Datos\obj\Debug\Datos.dll
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA - copia\BIBLIOTECA\Datos\obj\Debug\Datos.pdb
+C:\Users\PC02\Desktop\BIBLIOTECA ACTUALIZADO\Datos\bin\Debug\Datos.dll
+C:\Users\PC02\Desktop\BIBLIOTECA ACTUALIZADO\Datos\bin\Debug\Datos.pdb
+C:\Users\PC02\Desktop\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC02\Desktop\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.dll
+C:\Users\PC02\Desktop\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA ACTUALIZADO\Datos\bin\Debug\Datos.dll
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA ACTUALIZADO\Datos\bin\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.dll
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.pdb
+C:\Users\JOHNNY\Desktop\CARPETA COMPARTIDA\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\OPERSIC\BIBLIOTECA ACTUALIZADO\Datos\bin\Debug\Datos.dll
+F:\OPERSIC\BIBLIOTECA ACTUALIZADO\Datos\bin\Debug\Datos.pdb
+F:\OPERSIC\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+F:\OPERSIC\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.dll
+F:\OPERSIC\BIBLIOTECA ACTUALIZADO\Datos\obj\Debug\Datos.pdb
